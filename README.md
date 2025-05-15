@@ -1,12 +1,4 @@
 Django + React Starter Kit
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
 A minimal starter project to build a full-stack web app using Django (Dockerized backend) and React with TypeScript (frontend outside Docker). This setup lets you quickly develop your backend API and React frontend separately with easy local development and Docker deployment.
 📋 Table of Contents
 
